@@ -1,5 +1,6 @@
 '''This project is an edited version of a script found on http://pygame.org'''                                                                                                        
 
+#Image pinterest ball... = mine == my found on my photo bucket
 import sys, pygame
 pygame.init()
 
